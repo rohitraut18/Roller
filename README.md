@@ -1,3 +1,6 @@
+[![C++](https://github.com/rohitraut18/Roller/actions/workflows/actions.yml/badge.svg)](https://github.com/rohitraut18/Roller/actions/workflows/actions.yml)
+
+
 # Roller
 
 This repository provides a program that rolls a game die, such as the
