@@ -1,6 +1,6 @@
 [![C++](https://github.com/rohitraut18/Roller/actions/workflows/actions.yml/badge.svg)](https://github.com/rohitraut18/Roller/actions/workflows/actions.yml)
 
-[![C++_linter](https://github.com/rohitraut18/Roller/actions/workflows/super-linter.yml/badge.svg)](https://github.com/rohitraut18/Roller/actions/workflows/super-linter.yml)
+[![C++_linter](https://github.com/rohitraut18/Roller/actions/workflows/super-linter.yml/badge.svg?branch=issue2)](https://github.com/rohitraut18/Roller/actions/workflows/super-linter.yml)
 
 # Roller
 
